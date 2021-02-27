@@ -1,6 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Prompt&display=swap");
 
 body {
-    background-color: indianred;
-    font-family: 'Prompt', sans-serif;
+  background-color: indianred;
+  font-family: "Prompt", sans-serif;
+}
+
+div {
+  color: #edb80a;
+}
+
+div {
+  color: #edb80a;
+}
+
+.bg-color-red {
+  background-color: red;
+  font-size: 50px;
+  color: black;
+}
+
+.bg-color-gold {
+  background-color: gold;
+}
+
+.border-1-radius-5 {
+  background-color: #ed710a;
+  color: #cda833;
+  border: 1px solid #ededed;
+  border-radius: 5px;
+  margin: 2px;
+  padding: 10px;
+}
+
+.fontsize {
+  font-size: 50px;
 }
